@@ -1,4 +1,4 @@
-# scs-project-2
+
 
 ![alt text](https://github.com/sd-ontario/scs-project-2/blob/master/public/images/logo2.png?raw=true)
 # Hi Neighbour 
